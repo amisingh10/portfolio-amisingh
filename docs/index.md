@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Amitoj Lobana"
+  text: "a home of learning and improving code"
+  tagline: "designing with purpose!"
   actions:
     - theme: brand
       text: Template Repository
