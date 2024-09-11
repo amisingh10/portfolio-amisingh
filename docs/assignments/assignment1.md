@@ -1,5 +1,5 @@
 ---
-title: Assignment 1
+title: A1
 layout: doc
 ---
 
