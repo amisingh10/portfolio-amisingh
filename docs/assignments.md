@@ -3,7 +3,7 @@ layout: doc
 ---
 
 <script setup>
-  import {data assignments} from './assignments/assignment.data';
+  import {data, assignments} from './assignments/assignment.data';
   import { withBase } from 'vitepress';
 </script>
 
