@@ -97,4 +97,4 @@ Many patients report feeling isolated or not understood due to the severity or u
 
 ## Storyboarding and Sketching
 
-![](A2Images/Storyboarding.heic)
+![](A2Images/StoryboardingFormatted.jpg)
