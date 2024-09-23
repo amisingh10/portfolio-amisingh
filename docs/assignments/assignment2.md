@@ -17,23 +17,32 @@ Many patients report feeling isolated or not understood due to the severity or u
 
 ## Comparables Scrapbook
 
-!["Sorting posts by relevance on Reddit: could this be applied to support age-based support groups?"](A2Images/r:martialarts%20sorting.jpg "Reddit Sorting")
+![](A2Images/r:martialarts%20sorting.jpg "Reddit Sorting")
+Sorting posts by relevance on Reddit: could this be applied to support age-based support groups?
 
-!["Estimated delivery time on Uber Eats: a possible concept to demonstrate patient diagnosis times?"](A2Images/UberEats%20delivery%20time.jpg "Uber Eats Delivery Time")
+![](A2Images/UberEats%20delivery%20time.jpg "Uber Eats Delivery Time")
+Estimated delivery time on Uber Eats: a possible concept to demonstrate patient diagnosis times?
 
-!["Pokémon Go gym power by height: a method to quickly navigate constraints for sought-out medical care"](A2Images/PokeGo%20gym%20heights.jpg "Pokémon Go Gym Heights")
+![](A2Images/PokeGo%20gym%20heights.jpg "Pokémon Go Gym Heights")
+Pokémon Go gym power by height: a method to quickly navigate constraints for sought-out medical care
 
-!["YouTube shorts option: this might be a way to facilitate one-time chats without commitment"](A2Images/YouTube%20shorts%20option.jpg "Youtube Shorts Toggle")
+![](A2Images/YouTube%20shorts%20option.jpg "Youtube Shorts Toggle")
+YouTube shorts option: this might be a way to facilitate one-time chats without commitment
 
-!["Apple weather app forecast: is it possible to convert this into news on medical research?"](A2Images/weather%20app%20forecasts.jpg "Apple Weather Forecast")
+![](A2Images/weather%20app%20forecasts.jpg "Apple Weather Forecast")
+Apple weather app forecast: is it possible to convert this into news on medical research?
 
-!["Zoom premeeting settings: this could be applied to allow users to toggle how detailed their online presence is"](A2Images/Zoom%20privacy%20controls.jpg "Zoom Premeeting Settings")
+![](A2Images/Zoom%20privacy%20controls.jpg "Zoom Premeeting Settings")
+Zoom premeeting settings: this could be applied to allow users to toggle how detailed their online presence is
 
-!["Microsoft Teams status update: maybe this can be expanded to link patients to emergency contacts](A2Images/Teams%20status%20update.jpg "Microsoft Teams Status")
+![](A2Images/Teams%20status%20update.jpg "Microsoft Teams Status")
+Microsoft Teams status update: maybe this can be expanded to link patients to emergency contacts
 
-!["Slack solutions window: could this be applied to demonstrate patient stories to others?"](A2Images/Slack%20solutions.jpg "Slack Solutions Menu")
+![](A2Images/Slack%20solutions.jpg "Slack Solutions Menu")
+Slack solutions menu: could this be applied to demonstrate patient stories to others?
 
-!["Discord server list: this might be applied to connect patients with similar experiences"](A2Images/Discord%20server%20list.jpg "Discord Server List")
+![](A2Images/Discord%20server%20list.jpg "Discord Server List")
+Discord server list: this might be applied to connect patients with similar experiences
 
 
 ## Feature Ideas
