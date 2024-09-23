@@ -16,4 +16,4 @@ layout: doc
 </ul>
 <p v-else>
   Nothing here yet!
-</p>?
+</p>
